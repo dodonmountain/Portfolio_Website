@@ -1,12 +1,14 @@
-import React from 'react';
-import './GlobalStyles.css';
+import React from "react"
+import HomePage from "pages/HomePage"
+import { Route } from "react-router-dom"
+import "./GlobalStyles.css"
 
 function App() {
   return (
     <div className="App">
-      <h1>하이</h1>
+      <Route exact path="/" component={HomePage} />
     </div>
-  );
+  )
 }
 
-export default App;
+export default App
