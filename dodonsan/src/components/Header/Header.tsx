@@ -8,7 +8,7 @@ class Header extends Component<HeaderProps> {
   render() {
     return (
       <>
-        <header>하이</header>
+        
       </>
     );
   }
