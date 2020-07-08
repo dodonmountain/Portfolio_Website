@@ -1,0 +1,15 @@
+.subheader-wrapper {
+    height: 55em;
+    background-image: linear-gradient(to top, #f3e7e9 0%, #e3eeff 99%, #e3eeff 100%);
+}
+.face {
+    border-radius: 50%;
+    height: 14em
+}
+
+.nameheader {
+    font-size: 4em;
+    font-family: 'East Sea Dokdo', cursive;
+    padding: 1em;
+    font-weight: 100
+}
